@@ -1,0 +1,7 @@
+/home/gnkalk/.config/polybar/launch.sh &
+tint2 &
+picom &
+nitrogen --restore &
+rofi -show run &
+setxkbmap -layout "us,ir" -option "lv3:ralt_alt,grp:alt_shift_toggle" &
+

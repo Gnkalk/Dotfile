@@ -4,7 +4,7 @@ The config file openbox and other... for My desktop
 
 کانفیگ فایل های اوپن باکس ، پولی‌بار ، تینت2 و.... در دسکتاپ من
 
-![Screenshot](/home/gnkalk/Documents/dotfile/Screenshot.jpg)
+![Screenshot](/Screenshot.jpg)
 
 ### Run Config
 

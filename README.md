@@ -1,55 +1,20 @@
 # Gnkalk DotFile
 
-The config file openbox and other... for My desktop
+My Dotfiles (.config and others)
 
-کانفیگ فایل های اوپن باکس ، پولی‌بار ، تینت2 و.... در دسکتاپ من
+![Screenshot](/Screenshot.png)
 
-![Screenshot](/Screenshot.jpg)
+### How to Apply My Dotfile for your desktop
 
-### Run Config
+**too esey**
 
-**EN :** 
+copy the all folders in your `home`
 
-1. Install Dependency 
+#### Configs :
 
-   - openbox
-
-   - tint2
-
-   - polybar
-
-   - rofi
-
-   - obmenu-generator dependency
-
-   Optional dependencies
-    -  fish
-    -  oh my fish 
-    -  neofetch
-    -  htop
-   
-2. Copy All folders to `~/.config`
-
-**FA :** 
-
-1. نصب پیش نیاز ها
-
-   - openbox
-
-   - tint2
-
-   - polybar
-
-   - rofi
-
-   - obmenu-generator dependency
-
-   پیش نیاز های اختیاری
-    -  fish
-    -  oh my fish 
-    -  neofetch
-    -  htop
-   
-2. کپی کردن تمامی پوشه ها در ادرس `~/.config`
-
-
+[x] - Fish
+[ ] - X.rog
+[ ] - Nano
+[ ] - Vim
+[ ] - Gimp
+[ ] - others...

@@ -12,9 +12,21 @@ copy the all folders in your `home`
 
 #### Configs :
 
-[x] - Fish
-[ ] - X.rog
-[ ] - Nano
-[ ] - Vim
-[ ] - Gimp
-[ ] - others...
+- [x] Fish
+- [ ] X.rog
+- [ ] Nano
+- [ ] Vim
+- [ ] Gimp
+- [ ] others...
+
+### Old Dotfiles
+
+My Old Dotfiles moved to other branch :)
+
+[Link](https://github.com/Gnkalk/Dotfiles/tree/old)
+
+---
+
+This dotfiles pulished under BSD-3 License
+
+Created by **Gnkalk**
